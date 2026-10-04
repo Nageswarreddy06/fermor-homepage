@@ -1,6 +1,6 @@
 # Fermor — Make room for your future
 
-An original, responsive homepage concept for the Fermor frontend assignment. Built with React, TypeScript, the Next.js App Router conventions, and custom CSS. This submission is a standard Next.js project suitable for Vercel. The separate preview deployment uses the same homepage source with a compatible Vite runtime.
+An original, responsive homepage concept for the Fermor frontend assignment. Built with React, TypeScript, the Next.js App Router conventions, and custom CSS. This submission is a standard Next.js project suitable for Vercel.
 
 ## Run locally
 
@@ -45,3 +45,13 @@ Product positioning was informed by https://fermor.in. Layout, writing, visual s
 ## Deploy on Vercel
 
 Push this folder to a GitHub repository, import that repository into Vercel, and select the Next.js framework preset. No environment variables are needed. Use the default build command (`npm run build`).
+
+## Live demo
+
+https://fermor-source-1.vercel.app
+
+## Screenshot
+
+Homepage preview captured in Vercel’s deployment view.
+
+![Fermor homepage preview](docs/homepage-preview.jpg)
